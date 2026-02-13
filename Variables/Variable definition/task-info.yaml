@@ -12,31 +12,34 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: 2fleudFYN6AcL8cKIBefEg==
         selected: false
-        status: Unchecked
+        status: Solved
       - offset: 324
-        length: 20
+        length: 14
         placeholder_text: "# Assign a new value"
         initial_state:
           length: 20
           offset: 326
         initialized_from_dependency: false
         encrypted_possible_answer: aH44RH06lGBifeF1BwSpFw==
-        selected: false
-        status: Unchecked
-      - offset: 454
-        length: 31
+        selected: true
+        status: Solved
+      - offset: 448
+        length: 6
         placeholder_text: "# Assign 2 to both a and b here"
         initial_state:
           length: 31
           offset: 456
         initialized_from_dependency: false
         encrypted_possible_answer: TdhlonDmCffsG2FM8D8vaw==
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: tests/test_task.py
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Variables+/+Variable+Definition
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 13 Feb 2026 03:15:00 UTC"
 record: -1

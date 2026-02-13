@@ -7,11 +7,11 @@ print("a = " + str(a))
 name = "World"
 print("Hello, " + str(name))
 # Reassign the name variable with your actual name
-name = # Assign a new value
+name = "Abraham Xiao"
 print("Hello, " + str(name))
 
 
 # Use chain assignment here to assign the value 2 to variables "a" and "b".
-a # Assign 2 to both a and b here 2
+a = b = 2
 print("a = " + str(a))
 print("b = " + str(b))
